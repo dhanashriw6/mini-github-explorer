@@ -1,8 +1,8 @@
-1. Download the ZIP File
-Download the ZIP file of the repository and extract it to your desired location. Right-click → Extract All
+1. Clone the Repository
+git clone https://github.com/dhanashriw6/mini-github-explorer.git
 
 2. Open the Project Folder
-Open the extracted folder in your code editor 
+Open the cloned folder in your code editor
 
 3. Navigate to the Project Directory
 cd github-explorer
