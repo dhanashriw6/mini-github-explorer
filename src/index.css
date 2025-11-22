@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+
+.bg-app-gradient {
+    background: linear-gradient(180deg, #1e293b, #7e22ce, #1e293b);
+}
+
+.bg-button-gradient {
+    background: linear-gradient(90deg, #8b5cf6, #3b82f6);
+}
+
+.card-glass{
+    @apply bg-white/10 border border-white/20;
+
+}
+option {
+  color: black;
+}
